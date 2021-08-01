@@ -3,7 +3,7 @@ What is CodeIgniter
 ###################
 
 
-![Hidroponik](.../assets/vendor/img/logo-xl.PNG)
+![Hidroponik](https://github.com/recchan13/sidaad/tree/master/assets/vendor/img/logo-xl.PNG)
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
